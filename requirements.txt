@@ -1,0 +1,8 @@
+streamlit
+mistralai
+sympy
+matplotlib
+numpy
+pytesseract
+opencv-python-headless
+Pillow
